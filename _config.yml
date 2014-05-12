@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://UndergroundManchester.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://underground-manchester.github.io
+title: ↧ Underground Manchester
+subtitle: Tunnels, rivers, mines & subterranean spaces of Mancunia
+author: Underground Manchester
 simple_search: https://www.google.com/search
 description:
 
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-352611-13
 
 # Facebook Like
 facebook_like: false
