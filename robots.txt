@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://UndergroundManchester.github.io/sitemap.xml 
+Sitemap: http://underground-manchester.github.io/sitemap.xml 

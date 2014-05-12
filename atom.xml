@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://UndergroundManchester.github.io/atom.xml" rel="self"/>
-  <link href="http://UndergroundManchester.github.io/"/>
-  <updated>2014-05-11T20:55:37+01:00</updated>
-  <id>http://UndergroundManchester.github.io/</id>
+  <title><![CDATA[↧ Underground Manchester]]></title>
+  <link href="http://underground-manchester.github.io/atom.xml" rel="self"/>
+  <link href="http://underground-manchester.github.io/"/>
+  <updated>2014-05-13T00:11:59+01:00</updated>
+  <id>http://underground-manchester.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Underground Manchester]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://underground-manchester.github.io/blog/2014/05/11/welcome/"/>
+    <updated>2014-05-11T21:04:21+01:00</updated>
+    <id>http://underground-manchester.github.io/blog/2014/05/11/welcome</id>
+    <content type="html"><![CDATA[<p>Welcome to a new site about Underground Manchester. You’ve managed to find this site before I’ve properly launched it, and as such you’ll find it a bit lacking.</p>
+
+<p>This is the culmination of a fascination about Manchester’s underground features that has led me to compile the features I read about and find mentioned around the internet into an interactive map. This was mostly for my own personal curiosity, and to allow me to get a feel for the layout of things I was reading about. As I added more and more I found it fascinating how rich the history of the city is and was well and truly hooked. I added photos that I found for my own record, and as the map wasn’t public I didn’t request permission to reproduce them here.</p>
+
+<p>I have a few tasks to complete, mainly around gathering permission for image use (or removing images) and ensuring I haven’t infringed anyone’s intellectual property.</p>
+
+<p>I can not stress enough that I have no interest in upsetting writers or photographers, and as such I would encourage you to <a href="mailto:underground.manchester@gmail.com">get in touch</a> if you spot anything you would like to be removed and I will cooperate quickly.</p>
+]]></content>
+  </entry>
   
 </feed>
